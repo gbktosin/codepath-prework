@@ -38,7 +38,7 @@ No challenges encountered while building the app.
 
 ## License
 
-    Copyright [2022] [Jesse Oseafiana]
+    Copyright [2022] [Jesse Oluwatosin Oseafiana]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
